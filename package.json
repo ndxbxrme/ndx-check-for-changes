@@ -1,6 +1,6 @@
 {
   "name": "ndx-check-for-changes",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "prompt user to save changes for ndx-framework",
   "main": "build/index.js",
   "scripts": {
